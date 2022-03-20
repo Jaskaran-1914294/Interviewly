@@ -21,12 +21,15 @@ Tech Stack used:-<br>
 ## Good To Haves
 * Option to add resume link of candidates which can be seen by admin later.
 
+## How Php Works:
+![](Images/php_work.png)
+
 ## Upcoming Updates
 * Admin Authentication page 
 * Send Emails to participants on interview creation.
 * Add option to add participant's Image.
 
-![](Images/php_work.png)
+
 
 ## How to build and run this project
 
