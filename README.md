@@ -44,7 +44,7 @@ Tech Stack used:-<br>
   * `exit`
 * For now 
   * Admin Username :- 'root'
-  * password :- 'root'
+  * password :- '123'
 * Provide `username`, `password` and `database` (DB_NAME) info in **connect.php** for authenticate and properly connect to the Database.
 * Execute `index.php`.
 
